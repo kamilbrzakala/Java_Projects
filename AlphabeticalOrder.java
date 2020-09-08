@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 
-class Main {
+class AlphabeticalOrder {
     public static void main(String[] args) {
         // put your code here
 
