@@ -6,7 +6,7 @@ import java.util.Scanner;
 //        The program must check how many times n occurs in the array.
 
 
-class Main {
+class HowManyTimesNoccursINtheArray {
     public static void main(String[] args) {
         // put your code here
         final Scanner scanner = new Scanner(System.in);
