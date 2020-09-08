@@ -15,7 +15,7 @@ import java.util.Scanner;
 //        loHel
 
 
-class Main {
+class MoveTheFirstNcharacters {
     public static void main(String[] args) {
         // put your code here
         Scanner sc = new Scanner(System.in);
