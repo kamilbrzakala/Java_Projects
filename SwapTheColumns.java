@@ -16,7 +16,7 @@ import java.util.Scanner;
 //        22 21 23 24
 //        32 31 33 34
 
-class Main {
+class SwapTheColumns {
     public static void main(String[] args) {
         // put your code here
         Scanner scanner = new Scanner(System.in);
