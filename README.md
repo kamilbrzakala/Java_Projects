@@ -1,5 +1,5 @@
 # JAVA projects
-The Repo contains all my favourite java projects developed during the JetBrains academy.
+The Repo contains all my favourite java projects
 
 CoffeeMachine.java - order your favorite coffee.
 
