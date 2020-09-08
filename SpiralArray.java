@@ -13,7 +13,7 @@ import java.util.Scanner;
 //        13 12 11 10 9
 
 
-class Spiral {
+class SpiralArray {
     public static void main(String[] args) {
         // put your code here
         Scanner scanner = new Scanner(System.in);
