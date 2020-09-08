@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Scanner;
 
-public class Main {
+public class TicTacToe {
     private static Collection<String> getConsecutiveOccurrenceOfChar(String string) {
 
         Collection<String> charCounts = new ArrayList<>();
