@@ -11,7 +11,7 @@ import java.util.Scanner;
 //        yes
 
 
-class Main {
+class Palindrome {
     public static void main(String[] args) {
         // put your code here
         Scanner sc = new Scanner(System.in);
