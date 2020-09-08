@@ -40,7 +40,7 @@ class Clock {
     }
 }
 
-class Main {
+class SimulateClock {
     public static void main(String[] args) {
         Clock clock = new Clock();
         clock.hours = 12;
